@@ -1,0 +1,22 @@
+a.splinks:hover {
+  color: rgb(244,81,46);
+  text-decoration: none;
+}
+
+.splinks {
+  font-size: 40px;
+  text-decoration: none;
+  color: rgb(251,249,249);
+}
+
+.splinkr {
+  font-size: 40px;
+  text-decoration: none;
+  color: red;
+}
+
+a.splinkr:hover {
+  color: yellow;
+  text-decoration: none;
+}
+
