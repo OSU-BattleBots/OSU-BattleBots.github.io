@@ -20,3 +20,8 @@ a.splinkr:hover {
   text-decoration: none;
 }
 
+a.sponsors {
+  text-align: center;
+  /*float: left;*/
+}
+
